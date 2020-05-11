@@ -63,13 +63,13 @@
 
 登陆页面用于用户登录操作，当用户登录成功后会跳转到网页主页页面。功能如图所示：
 
-![add image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/login.png)
+![image](https://github.com/Angelongone/Ang-PWS/tree/master/maImger/login.png)
 
 #### 3.1.2 注册页面功能分析
 
 注册页面用于用户注册登陆，其中包括用户名，密码和名称，都是必填。当注册成功后会跳过转到登陆页面，用户可进行登录。功能如图所示：
 
-![add image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/zuc.png)
+![image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/zuc.png)
 
 #### 3.1.2 网站主页功能需求分
 
@@ -86,5 +86,5 @@
 
 其具体功能实现如下：
 
-![add image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/web.png)
+![image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/web.png)
 
