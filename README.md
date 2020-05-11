@@ -69,7 +69,7 @@
 
 注册页面用于用户注册登陆，其中包括用户名，密码和名称，都是必填。当注册成功后会跳过转到登陆页面，用户可进行登录。功能如图所示：
 
-![](./maImger/注册页面.png)
+![add image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/注册页面.png)
 
 #### 3.1.2 网站主页功能需求分
 
@@ -86,5 +86,5 @@
 
 其具体功能实现如下：
 
-![](./maImger/网页主页.png)
+![add image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/网页主页.png)
 
