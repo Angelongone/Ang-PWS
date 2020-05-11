@@ -63,7 +63,7 @@
 
 登陆页面用于用户登录操作，当用户登录成功后会跳转到网页主页页面。功能如图所示：
 
-![](https://github.com/Angelongone/Ang-PWS/maImger/登陆页面.png)
+![add image](https://github.com/Angelongone/raw/master/Ang-PWS/maImger/login.png)
 
 #### 3.1.2 注册页面功能分析
 
