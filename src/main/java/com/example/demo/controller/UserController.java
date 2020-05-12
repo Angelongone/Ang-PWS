@@ -4,6 +4,7 @@ import com.example.demo.bean.User;
 import com.example.demo.service.UserService;
 import org.apache.tomcat.util.net.AprEndpoint;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -78,5 +79,12 @@ public class UserController {
         }else {
             return "redirect:login/Angelong.html";
         }
+    }
+
+    @RequestMapping("/th")
+    public String th(Model model){
+       String name = "Angelong";
+       model.addAttribute("name",name);
+       return "/static/english/th.html";
     }
 }
