@@ -63,13 +63,21 @@
 
 登陆页面用于用户登录操作，当用户登录成功后会跳转到网页主页页面。功能如图所示：
 
+<<<<<<< HEAD
 ![add image](./maImger/login.png)
+=======
+![image](./maImger/login.png)
+>>>>>>> 01efd6efe270150dcb6a146e9947bc45539daef0
 
 #### 3.1.2 注册页面功能分析
 
 注册页面用于用户注册登陆，其中包括用户名，密码和名称，都是必填。当注册成功后会跳过转到登陆页面，用户可进行登录。功能如图所示：
 
+<<<<<<< HEAD
 ![add image](./maImger/zuc.png)
+=======
+![image](./maImger/zuc.png)
+>>>>>>> 01efd6efe270150dcb6a146e9947bc45539daef0
 
 #### 3.1.3 网站主页功能需求分
 
@@ -86,6 +94,7 @@
 
 其具体功能实现如下：
 
+<<<<<<< HEAD
 ![add image](./maImger/web.png)
 
 #### 3.1.4 个人博客功能需求分析
@@ -95,4 +104,7 @@
 2. 文章展示模块
 3. 文章修改模块
 
+=======
+![image](./maImger/web.png)
+>>>>>>> 01efd6efe270150dcb6a146e9947bc45539daef0
 
